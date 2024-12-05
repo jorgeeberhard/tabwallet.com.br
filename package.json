@@ -1,0 +1,16 @@
+{
+  "name": "tabwallet.com.br",
+  "version": "1.0.0",
+  "description": "O objetivo deste projeto é criar um site, onde os usuários vão poder criar e acompanhar suas próprias carteiras de investimento.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
